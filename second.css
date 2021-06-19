@@ -1,14 +1,8 @@
 html{
   scroll-behavior: smooth;
 }
-#main{
-  background-color: #9b96bf;
-}
-.ex1{
- background-color: #9c95958c;
-}
+
 .ex2{
-    background-color: #847f7f;
     border-radius: 10px;
 }
 

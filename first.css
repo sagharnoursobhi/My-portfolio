@@ -42,6 +42,7 @@ body , html{
     border-radius: 10px;
     font-family: 'Righteous', cursive;
     letter-spacing: 5px;
+    cursor: pointer;
 }
 
 h3 , h1{
